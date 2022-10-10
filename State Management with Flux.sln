@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State Management with Flux", "State Management with Flux.csproj", "{BFE59317-7832-427F-A9F3-24571107646D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFE59317-7832-427F-A9F3-24571107646D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE59317-7832-427F-A9F3-24571107646D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFE59317-7832-427F-A9F3-24571107646D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFE59317-7832-427F-A9F3-24571107646D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA828801-2702-498D-9AF2-5919A848A95F}
+	EndGlobalSection
+EndGlobal
